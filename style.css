@@ -67,7 +67,9 @@ nav li a{
 
 .name{
     font-weight: bold;
-    margin-left: 56%;
+    margin-right: 35px;
+    float: right;
+    
 }
 
 
