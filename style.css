@@ -21,6 +21,8 @@ nav li a{
     color: #0f4bbd;
     
   }
+
+
   nav li a:visited{
     border-bottom: 1px solid;
     
@@ -89,4 +91,16 @@ h3, h2, p{
     margin-left: 20px;
     padding-top: 0px;
 
+}
+
+
+a:hover{
+    color: #0f4bbd;
+
+}
+
+a{
+       
+  text-decoration: none;
+  color: #222831;
 }
